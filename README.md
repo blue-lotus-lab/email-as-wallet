@@ -1,3 +1,5 @@
+<div align="right"><b>public</b> | api, sdk</div>
+
 # email-as-wallet
 using email to connecting web3
 
