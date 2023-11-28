@@ -1,4 +1,6 @@
-<div align="right"><b>public</b> | api, sdk</div>
+<div align="right">
+<sub>Public | ShowCase</sub>
+</div>
 
 # email-as-wallet
 using email to connecting web3
